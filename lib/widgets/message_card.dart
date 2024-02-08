@@ -1,7 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:coop/main.dart';
 import 'package:flutter/material.dart';
-
 import '../helper/global.dart';
 import '../models/message.dart';
 
