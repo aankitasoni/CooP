@@ -1,9 +1,7 @@
 import 'dart:convert';
 import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../apis/apis.dart';
 import '../helper/my_dialog.dart';
 import 'image_controller.dart';
