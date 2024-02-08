@@ -8,6 +8,7 @@ class Message {
   });
 }
 
+
 enum MessageType {
   user,
   bot,

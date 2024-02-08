@@ -4,6 +4,7 @@ import 'package:coop/screen/features/translator_feature.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+
 enum HomeType {
   aiChatBot,
   aiImage,
