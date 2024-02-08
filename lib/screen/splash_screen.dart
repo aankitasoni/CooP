@@ -1,7 +1,6 @@
 import 'package:coop/screen/onboarding_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../db/pref.dart';
 import '../helper/global.dart';
 import '../widgets/custom_loading.dart';

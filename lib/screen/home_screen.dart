@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-
 import '../db/pref.dart';
 import '../helper/global.dart';
 import '../models/home_type.dart';

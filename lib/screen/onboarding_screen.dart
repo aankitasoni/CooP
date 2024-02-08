@@ -2,7 +2,6 @@ import 'package:coop/main.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
-
 import '../helper/global.dart';
 import '../models/onboard.dart';
 import '../widgets/custom_button.dart';
